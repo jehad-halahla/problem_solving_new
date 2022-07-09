@@ -12,28 +12,29 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-25 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++20 (64)](./codeforces/1717/A.cpp) | `math` | Sep/02/2022 11:10 | 
-24 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [GNU C++20 (64)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Sep/02/2022 07:17 | 
-23 | [A - LLPS](https://codeforces.com/contest/202/problem/A) | [GNU C++20 (64)](./codeforces/202/A.cpp) | `binary search` `bitmasks` `brute force` `greedy` `implementation` `strings` `*800` | Sep/02/2022 06:59 | 
-22 | [A - Ancient Civilization](https://codeforces.com/contest/1625/problem/A) | [GNU C++20 (64)](./codeforces/1625/A.cpp) | `bitmasks` `greedy` `math` `*800` | Sep/02/2022 06:44 | 
-21 | [B - Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B) | [GNU C++20 (64)](./codeforces/1688/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `sortings` `*800` | Sep/01/2022 23:59 | 
-20 | [A - NIT orz!](https://codeforces.com/contest/1696/problem/A) | [GNU C++20 (64)](./codeforces/1696/A.cpp) | `bitmasks` `greedy` `*800` | Sep/01/2022 17:47 | 
-19 | [B - MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | [GNU C++20 (64)](./codeforces/1566/B.cpp) | `bitmasks` `constructive algorithms` `dp` `greedy` `*800` | Sep/01/2022 17:30 | 
-18 | [A - Cirno's Perfect Bitmasks Classroom](https://codeforces.com/contest/1688/problem/A) | [GNU C++20 (64)](./codeforces/1688/A.cpp) | `bitmasks` `brute force` `*800` | Sep/01/2022 15:59 | 
-17 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++20 (64)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Sep/01/2022 15:43 | 
-16 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [GNU C++20 (64)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Sep/01/2022 15:20 | 
-15 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [GNU C++17](./codeforces/1527/A.cpp) | `bitmasks` `*800` | Sep/01/2022 15:06 | 
-14 | [B - Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | [GNU C++20 (64)](./codeforces/1704/B.cpp) | `brute force` `greedy` `implementation` `*1000` | Sep/01/2022 09:05 | 
-13 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++20 (64)](./codeforces/339/B.cpp) | `implementation` `*1000` | Aug/31/2022 12:21 | 
-12 | [B - Colourblindness](https://codeforces.com/contest/1722/problem/B) | [Java 8](./codeforces/1722/B.java) | `implementation` `*800` | Aug/30/2022 08:26 | 
-11 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [Java 8](./codeforces/1722/A.java) | `implementation` `*800` | Aug/30/2022 08:18 | 
-10 | [B - Two Buttons](https://codeforces.com/contest/520/problem/B) | [Java 8](./codeforces/520/B.java) | `dfs and similar` `graphs` `greedy` `implementation` `math` `shortest paths` `*1400` | Aug/26/2022 16:59 | 
-9 | [E - Polygon](https://codeforces.com/contest/1360/problem/E) | [Java 8](./codeforces/1360/E.java) | `dp` `graphs` `implementation` `shortest paths` `*1300` | Aug/26/2022 11:05 | 
-8 | [B - Optimal Reduction](https://codeforces.com/contest/1713/problem/B) | [Java 8](./codeforces/1713/B.java) | `constructive algorithms` `sortings` `*1000` | Aug/26/2022 08:34 | 
-7 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [Java 8](./codeforces/1692/A.java) | `implementation` `*800` | Aug/26/2022 07:31 | 
-6 | [C - Cypher](https://codeforces.com/contest/1703/problem/C) | [Java 8](./codeforces/1703/C.java) | `brute force` `implementation` `strings` `*800` | Jul/12/2022 08:38 | 
-5 | [B - ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [Java 8](./codeforces/1703/B.java) | `data structures` `implementation` `*800` | Jul/12/2022 08:07 | 
-4 | [A - YES or YES?](https://codeforces.com/contest/1703/problem/A) | [Java 8](./codeforces/1703/A.java) | `brute force` `implementation` `strings` `*800` | Jul/12/2022 07:54 | 
-3 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C11](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Jul/10/2022 12:53 | 
-2 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C11](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | Jul/10/2022 12:38 | 
-1 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [GNU C11](./codeforces/4/A.cpp) | `brute force` `math` `*800` | Jul/10/2022 12:02 | 
+26 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++20 (64)](./codeforces/1717/A.cpp) | `math` | Sep/02/2022 11:10 | 
+25 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [GNU C++20 (64)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Sep/02/2022 07:17 | 
+24 | [A - LLPS](https://codeforces.com/contest/202/problem/A) | [GNU C++20 (64)](./codeforces/202/A.cpp) | `binary search` `bitmasks` `brute force` `greedy` `implementation` `strings` `*800` | Sep/02/2022 06:59 | 
+23 | [A - Ancient Civilization](https://codeforces.com/contest/1625/problem/A) | [GNU C++20 (64)](./codeforces/1625/A.cpp) | `bitmasks` `greedy` `math` `*800` | Sep/02/2022 06:44 | 
+22 | [B - Patchouli's Magical Talisman](https://codeforces.com/contest/1688/problem/B) | [GNU C++20 (64)](./codeforces/1688/B.cpp) | `bitmasks` `constructive algorithms` `greedy` `sortings` `*800` | Sep/01/2022 23:59 | 
+21 | [A - NIT orz!](https://codeforces.com/contest/1696/problem/A) | [GNU C++20 (64)](./codeforces/1696/A.cpp) | `bitmasks` `greedy` `*800` | Sep/01/2022 17:47 | 
+20 | [B - MIN-MEX Cut](https://codeforces.com/contest/1566/problem/B) | [GNU C++20 (64)](./codeforces/1566/B.cpp) | `bitmasks` `constructive algorithms` `dp` `greedy` `*800` | Sep/01/2022 17:30 | 
+19 | [A - Cirno's Perfect Bitmasks Classroom](https://codeforces.com/contest/1688/problem/A) | [GNU C++20 (64)](./codeforces/1688/A.cpp) | `bitmasks` `brute force` `*800` | Sep/01/2022 15:59 | 
+18 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++20 (64)](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Sep/01/2022 15:43 | 
+17 | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [GNU C++20 (64)](./codeforces/1421/A.cpp) | `bitmasks` `greedy` `math` `*800` | Sep/01/2022 15:20 | 
+16 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [GNU C++17](./codeforces/1527/A.cpp) | `bitmasks` `*800` | Sep/01/2022 15:06 | 
+15 | [B - Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | [GNU C++20 (64)](./codeforces/1704/B.cpp) | `brute force` `greedy` `implementation` `*1000` | Sep/01/2022 09:05 | 
+14 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++20 (64)](./codeforces/339/B.cpp) | `implementation` `*1000` | Aug/31/2022 12:21 | 
+13 | [B - Colourblindness](https://codeforces.com/contest/1722/problem/B) | [Java 8](./codeforces/1722/B.java) | `implementation` `*800` | Aug/30/2022 08:26 | 
+12 | [A - Spell Check](https://codeforces.com/contest/1722/problem/A) | [Java 8](./codeforces/1722/A.java) | `implementation` `*800` | Aug/30/2022 08:18 | 
+11 | [B - Two Buttons](https://codeforces.com/contest/520/problem/B) | [Java 8](./codeforces/520/B.java) | `dfs and similar` `graphs` `greedy` `implementation` `math` `shortest paths` `*1400` | Aug/26/2022 16:59 | 
+10 | [E - Polygon](https://codeforces.com/contest/1360/problem/E) | [Java 8](./codeforces/1360/E.java) | `dp` `graphs` `implementation` `shortest paths` `*1300` | Aug/26/2022 11:05 | 
+9 | [B - Optimal Reduction](https://codeforces.com/contest/1713/problem/B) | [Java 8](./codeforces/1713/B.java) | `constructive algorithms` `sortings` `*1000` | Aug/26/2022 08:34 | 
+8 | [A - Marathon](https://codeforces.com/contest/1692/problem/A) | [Java 8](./codeforces/1692/A.java) | `implementation` `*800` | Aug/26/2022 07:31 | 
+7 | [C - Cypher](https://codeforces.com/contest/1703/problem/C) | [Java 8](./codeforces/1703/C.java) | `brute force` `implementation` `strings` `*800` | Jul/12/2022 08:38 | 
+6 | [B - ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | [Java 8](./codeforces/1703/B.java) | `data structures` `implementation` `*800` | Jul/12/2022 08:07 | 
+5 | [A - YES or YES?](https://codeforces.com/contest/1703/problem/A) | [Java 8](./codeforces/1703/A.java) | `brute force` `implementation` `strings` `*800` | Jul/12/2022 07:54 | 
+4 | [A - Domino piling](https://codeforces.com/contest/50/problem/A) | [GNU C11](./codeforces/50/A.cpp) | `greedy` `math` `*800` | Jul/10/2022 12:53 | 
+3 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C11](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | Jul/10/2022 12:38 | 
+2 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [GNU C11](./codeforces/4/A.cpp) | `brute force` `math` `*800` | Jul/10/2022 12:02 | 
+1 | [A - XOR Mixup](https://codeforces.com/contest/1698/problem/A) | [Python 3](./codeforces/1698/A.py) | `bitmasks` `brute force` `*800` | Jul/09/2022 13:45 | 
