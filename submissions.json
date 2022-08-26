@@ -1,4 +1,20 @@
 {
+  "CF169710759": {
+    "contest_id": 1692,
+    "language": "Java 8",
+    "path": "codeforces\\1692\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marathon",
+    "problem_url": "https://codeforces.com/contest/1692/problem/A",
+    "submission_id": "CF169710759",
+    "submission_url": "https://codeforces.com/contest/1692/submission/169710759",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/26/2022 07:31"
+  },
   "CF169717788": {
     "contest_id": 1713,
     "language": "Java 8",
