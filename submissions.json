@@ -1,4 +1,21 @@
 {
+  "CF169717788": {
+    "contest_id": 1713,
+    "language": "Java 8",
+    "path": "codeforces\\1713\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Reduction",
+    "problem_url": "https://codeforces.com/contest/1713/problem/B",
+    "submission_id": "CF169717788",
+    "submission_url": "https://codeforces.com/contest/1713/submission/169717788",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Aug/26/2022 08:34"
+  },
   "CF169732667": {
     "contest_id": 1360,
     "language": "Java 8",
