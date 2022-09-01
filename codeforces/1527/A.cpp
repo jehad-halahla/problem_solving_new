@@ -7,16 +7,13 @@ int main(){
  while(t--){
         int n;
  cin>> n;
+ if(n == 1)
+    cout << 0<<"\n";
+ else{
+    int x =__builtin_clz(n);
+ cout << ((1<<(31-x))-1) <<"\n";
+ }
 
-int num =0 ;
-while(n != 1){
-    n = n>>1;
-    num++;
-}
-for(int i = 0 ; i < num;i++){
-    n = ( n << 1 );
-}
-cout << n-1 << "\n";
 
 
 
