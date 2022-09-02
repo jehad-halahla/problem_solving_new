@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++20 (64)](./codeforces/1717/A.cpp) | `math` | Sep/02/2022 11:10 | 
+2 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++20 (64)](./codeforces/1717/A.cpp) | `math` | Sep/02/2022 11:10 | 
+1 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [GNU C++20 (64)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Sep/02/2022 07:17 | 
