@@ -1716,5 +1716,23 @@
       "math"
     ],
     "timestamp": "Sep/02/2022 11:10"
+  },
+  "CF170789776": {
+    "contest_id": 1494,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1494\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ABC String",
+    "problem_url": "https://codeforces.com/contest/1494/problem/A",
+    "submission_id": "CF170789776",
+    "submission_url": "https://codeforces.com/contest/1494/submission/170789776",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/03/2022 17:31"
   }
 }

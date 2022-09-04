@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+97 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [GNU C++20 (64)](./codeforces/1494/A.cpp) | `bitmasks` `brute force` `implementation` `*900` | Sep/03/2022 17:31 | 
 96 | [A - Madoka and Strange Thoughts](https://codeforces.com/contest/1717/problem/A) | [GNU C++20 (64)](./codeforces/1717/A.cpp) | `math` | Sep/02/2022 11:10 | 
 95 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [GNU C++20 (64)](./codeforces/1559/A.cpp) | `bitmasks` `constructive algorithms` `math` `*900` | Sep/02/2022 07:17 | 
 94 | [A - LLPS](https://codeforces.com/contest/202/problem/A) | [GNU C++20 (64)](./codeforces/202/A.cpp) | `binary search` `bitmasks` `brute force` `greedy` `implementation` `strings` `*800` | Sep/02/2022 06:59 | 
